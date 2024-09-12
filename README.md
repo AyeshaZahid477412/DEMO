@@ -1,5 +1,5 @@
 # DEMO
 my repo for demo
 <br>
-AUTHOR-AYESHSA ZAHID
+AUTHOR-AYESHSA (apna college)
 
